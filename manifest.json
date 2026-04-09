@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-api",
+    "entrypoint": "app:app"
+  },
+  "python": {
+    "version": "3.14.3",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "4873157e4fdc542069ef4e420ac40a74"
+    },
+    "app.py": {
+      "checksum": "4a2acd9e7f78a024c4a854f18af68521"
+    }
+  }
+}
